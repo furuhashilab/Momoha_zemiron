@@ -58,7 +58,8 @@ NHK WEB NEWS　https://www3.nhk.or.jp/news/html/20190123/k10011787591000.html
 避難誘導のための標識デザインに関する考察　及川康・片田敏孝   
 https://www.jstage.jst.go.jp/article/journalip1984/27/0/27_91/_pdf   
 避難所における情報提供を目的としたピクトグラムの作成　三輪多恵子・山口満   
-http://www2.sozo.ac.jp/pdf/kiyou2019/01p001-009TaekoMIWA.pdf
+http://www2.sozo.ac.jp/pdf/kiyou2019/01p001-009TaekoMIWA.pdf   
+リスト:https://docs.google.com/spreadsheets/d/1Wbf3GJcsay__z9s988mUBRFG5-C6coUz00agePgwFSM/edit#gid=0
 
 
 
