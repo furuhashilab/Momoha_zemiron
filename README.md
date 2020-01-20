@@ -53,11 +53,11 @@ https://docs.google.com/document/d/1biBTNSDbo6A-9tsao3Dn35BUw8Wc2POokKta35Ezam8/
 今後の課題としては、食料配達の場所だけでなく、避難所に来ている外国人の型のデータ把握のために今は文字で行っているデータ集めも、ピクトグラムを使ってより簡単に素早く行えるようになればもっと迅速な対応が行えると感じた。
 
 # 6.参考文献
-NHK WEB NEWS　https://www3.nhk.or.jp/news/html/20190123/k10011787591000.html
-新しい防災を提案するwebメディア　https://bosai-girl.com/2016/06/17/foreigner/
-避難誘導のための標識デザインに関する考察　及川康・片田敏孝
-https://www.jstage.jst.go.jp/article/journalip1984/27/0/27_91/_pdf
-避難所における情報提供を目的としたピクトグラムの作成　三輪多恵子・山口満
+NHK WEB NEWS　https://www3.nhk.or.jp/news/html/20190123/k10011787591000.html   
+新しい防災を提案するwebメディア　https://bosai-girl.com/2016/06/17/foreigner/   
+避難誘導のための標識デザインに関する考察　及川康・片田敏孝   
+https://www.jstage.jst.go.jp/article/journalip1984/27/0/27_91/_pdf   
+避難所における情報提供を目的としたピクトグラムの作成　三輪多恵子・山口満   
 http://www2.sozo.ac.jp/pdf/kiyou2019/01p001-009TaekoMIWA.pdf
 
 
