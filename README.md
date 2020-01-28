@@ -38,11 +38,11 @@ https://docs.google.com/document/d/1biBTNSDbo6A-9tsao3Dn35BUw8Wc2POokKta35Ezam8/
 　そして、ピクトグラムは、日本だけでなく海外でも使われている。しかし海外で使用されているピクトグラムが日本と全く同じというわけではない。日本では、緑ベースが主流だが、EUの国々では、青色ベースの非常口マークである。
 ![suteru_fav](https://www.google.com/imgres?imgurl=https%3A%2F%2Fdvrs04bx77b2x.cloudfront.net%2Fdriver-times%2Fitem%2Fimage%2Fnormal%2F01b42928-d0cf-4151-886f-6389c0c93229.png&imgrefurl=https%3A%2F%2Fdriver-times.com%2Fdriver_work%2Fdriver_biz%2F1045146&docid=GbuAU_LPmo3wqM&tbnid=WFrHhikrI2-UmM%3A&vet=10ahUKEwjJ_rSgl6XnAhUhE6YKHX4kAt8QMwhuKAwwDA..i&w=700&h=350&bih=714&biw=702&q=%E5%87%BA%E5%8F%A3%E3%83%9E%E3%83%BC%E3%82%AF&ved=0ahUKEwjJ_rSgl6XnAhUhE6YKHX4kAt8QMwhuKAwwDA&iact=mrc&uact=8)
 他にも、アメリカでは、EXITのみの表記。
-![suteru_fav](https://rr.img.naver.jp/mig?src=http%3A%2F%2Fwww.web-nile.com%2Farticles%2F04%2F000001%2Fpicture%2F02.jpg&twidth=1000&theight=0&qlt=80&res_format=jpg&op=r)
-パリでは、日本と同じだが、日本よりも、大きく文字が書かれている。
-![suteru_fav](https://rr.img.naver.jp/mig?src=http%3A%2F%2Fimgcc.naver.jp%2Fkaze%2Fmission%2FUSER%2F3%2F9%2F357359%2F201%2F400x300xb21f3f30453d37e4acf11be2.jpg%2F300%2F600&twidth=300&theight=600&qlt=80&res_format=jpg&op=r)
-アムステルダムでは、マークのみの表記。
-![suteru_fav](https://rr.img.naver.jp/mig?src=http%3A%2F%2Fimgcc.naver.jp%2Fkaze%2Fmission%2FUSER%2F3%2F9%2F357359%2F184%2F400x300xb38b76d79ae28b545e8db6b8.jpg%2F300%2F600&twidth=300&theight=600&qlt=80&res_format=jpg&op=r) 
+![suteru_fav](https://rr.img.naver.jp/mig?src=http%3A%2F%2Fwww.web-nile.com%2Farticles%2F04%2F000001%2Fpicture%2F02.jpg&twidth=1000&theight=0&qlt=80&res_format=jpg&op=r)   
+パリでは、日本と同じだが、日本よりも、大きく文字が書かれている。   
+![suteru_fav](https://rr.img.naver.jp/mig?src=http%3A%2F%2Fimgcc.naver.jp%2Fkaze%2Fmission%2FUSER%2F3%2F9%2F357359%2F201%2F400x300xb21f3f30453d37e4acf11be2.jpg%2F300%2F600&twidth=300&theight=600&qlt=80&res_format=jpg&op=r)   
+アムステルダムでは、マークのみの表記。   
+![suteru_fav](https://rr.img.naver.jp/mig?src=http%3A%2F%2Fimgcc.naver.jp%2Fkaze%2Fmission%2FUSER%2F3%2F9%2F357359%2F184%2F400x300xb38b76d79ae28b545e8db6b8.jpg%2F300%2F600&twidth=300&theight=600&qlt=80&res_format=jpg&op=r)    
 災害用ピクトグラムを使う際に、ピクトグラムだけの表示だと、避難場所にたどり着くために必要な情報が不十分という事もあり、日本では、避難経路に一連のサインとして設置するためにJIS規格が制定された。ピクトサインだけでなく、避難場所の名所や対象災害の種類などを書くことでより、多くの情報が端的に入ってくる。
 また、避難誘導のための標識デザインに求められる機能としては、2つあり、1つ目が、災害発生時に避難行動を喚起すること。そして2つ目は、避難しようとした人に避難の安全な方向を教示することである。例えば、津波の避難勧告のピクトグラムで、同一のメッセージを発信しているはずの標識であっても矢印の向きや有無、人間の逃げている行動のピクトグラムに対しての津波のピクトグラムの大きさによって、人に与える影響が異なる。
 
