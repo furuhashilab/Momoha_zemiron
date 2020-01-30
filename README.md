@@ -36,7 +36,7 @@ https://docs.google.com/document/d/1biBTNSDbo6A-9tsao3Dn35BUw8Wc2POokKta35Ezam8/
 ![suteru_fav](https://i2.wp.com/entert.jyuusya-yoshiko.com/wp-content/uploads/2016/07/2016y07m07d_114507293.jpg?resize=562%2C413&ssl=1)
 非常口のマークも二種類あり、緑色がベースとなっているのが、『避難口誘導灯』。白色がベースの物が、『通路誘導灯』という。このように、ピクトグラムは、様々な場所で人々に必要な情報を瞬時に提供する。
 　そして、ピクトグラムは、日本だけでなく海外でも使われている。しかし海外で使用されているピクトグラムが日本と全く同じというわけではない。日本では、緑ベースが主流だが、EUの国々では、青色ベースの非常口マークである。
-![suteru_fav](https://www.google.com/imgres?imgurl=https%3A%2F%2Fdvrs04bx77b2x.cloudfront.net%2Fdriver-times%2Fitem%2Fimage%2Fnormal%2F01b42928-d0cf-4151-886f-6389c0c93229.png&imgrefurl=https%3A%2F%2Fdriver-times.com%2Fdriver_work%2Fdriver_biz%2F1045146&docid=GbuAU_LPmo3wqM&tbnid=WFrHhikrI2-UmM%3A&vet=10ahUKEwjJ_rSgl6XnAhUhE6YKHX4kAt8QMwhuKAwwDA..i&w=700&h=350&bih=714&biw=702&q=%E5%87%BA%E5%8F%A3%E3%83%9E%E3%83%BC%E3%82%AF&ved=0ahUKEwjJ_rSgl6XnAhUhE6YKHX4kAt8QMwhuKAwwDA&iact=mrc&uact=8)
+![suteru_fav](https://dvrs04bx77b2x.cloudfront.net/driver-times/item/image/normal/01b42928-d0cf-4151-886f-6389c0c93229.png)
 他にも、アメリカでは、EXITのみの表記。
 ![suteru_fav](https://rr.img.naver.jp/mig?src=http%3A%2F%2Fwww.web-nile.com%2Farticles%2F04%2F000001%2Fpicture%2F02.jpg&twidth=1000&theight=0&qlt=80&res_format=jpg&op=r)   
 パリでは、日本と同じだが、日本よりも、大きく文字が書かれている。   
@@ -63,6 +63,8 @@ https://docs.google.com/document/d/1biBTNSDbo6A-9tsao3Dn35BUw8Wc2POokKta35Ezam8/
 2)	簡単なピクトグラムデザインと少し凝ったデザインとどちらのデザインがふさわしいかを検討した。簡単なデザインであれば、避難所の人が簡単に書くことができるが、凝ったデザインにしてしまうと、緊急を要するときに、すぐに使用できない可能性が生じることから、簡単で、だれもが書くことが出来るデザインで表すことを意識した。
 
 3)	今回の防災用ピクトグラムを、カラーユニバーサルデザインにするかを検討した。カラーユニバーサルデザインのポイントは3点あり、1つが出来るだけ多くの人に見分けやすい配色を選ぶ。2つ目が、色を見分けにくい人にも情報が伝わるようにする。3つ目が、色の名前を用いたコミュニケーションを可能にする。ということが挙げられる。よく、ピクトグラムに使われる赤は、黒やこげ茶と混同しやすく、オレンジや赤橙色を使うことが求められる。また、オレンジや赤橙色を使う上で、背景を白色にしたり、白の縁取りをすると目立つ。このように、一つの色を使うのにも様々な工夫が必要である。このことから、デザインだけでなく色彩にも意識をした。また、色覚障害がある方にとって、枠線を囲むだけ絵も違うようなので、色だけでなく枠線の囲みなどにも意識をした。
+
+
 
 # 4.今後の課題
 　この研究を通じて、被災した外国人に対しての被災した後の対応がまだしっかりとしていない印象を受けた。今回作った食料配給場所を示すピクトグラムだけでなく、他の場所を示すピクトグラムや、被災した後の行動のマニュアル、そして、避難所に来た外国人のデータを管理するための調査書などをよりスピーディーに簡単に伝えるための、ピクトグラムが必要であり、今後そのようなピクトグラムのデザインを実施すべきであると考えられる。
